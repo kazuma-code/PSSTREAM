@@ -1,9 +1,3 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo="" tvg-name="SPIN X FAMILIA PELICULA"  group-title="CINE",spedd
-https://raw.githubusercontent.com/kazuma-code/PSSTREAM/main/anime
-
-#EXTINF:-1, tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/22/10/54/0321052.jpg" tvg-name="SPIN X FAMILIA PELICULA"  group-title="cine-serie",spin x familia
-https://eu-central.storage.cloudconvert.com/tasks/524fa17e-c9f9-4dbc-806a-c2f8c69dfdec/ShinmaiOssan-06.720p.subes.AnimeYT.es.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cloudconvert-production%2F20240812%2Ffra%2Fs3%2Faws4_request&X-Amz-Date=20240812T174004Z&X-Amz-Expires=86400&X-Amz-Signature=4fb8dce6a8d3e9bcb905e6b85560f1f7f2d63fc682b01a3359b37e924e484f16&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B%20filename%3D%22ShinmaiOssan-06.720p.subes.AnimeYT.es.mp4%22&response-content-type=video%2Fmp4&x-id=GetObject
-
-#EXTINF:-1, tvg-logo="" tvg-name="SPIN X FAMILIA PELICULA"  group-title="CINE",spedd
-https://2565136267.tapecontent.net/radosgw/03ambQLJABibGlk/JCWFa9XDHfn8ofjkoCkfPSBhmGA0i95e7Hf_9KpefC_OxbWGvEK8QR3i2Iguj_s_L5M54Uurpu8yery9NKHF2c7mUoEElgkEETs76IxH_jAM_ZynBLntZM6L0_IHKJyF6ZS1x4OJnqlGyMz8sNh-Pt_yaMgLa-U_gRVDsxrO51bgl1P-rewjLLx_rvp6mhGzTCpS4YyzKusDzI_Gtn_E2CKUXReNJ8EMJDfYGqKlR1ZDGEJrLsJ0emuCsLX2b1zUjKxJ-k-uCp6xRRSAAoSc2xUiFO9-KDHyiHG3uiUztLEYKCaRVqq8Hbx4eyjIHA8_iC6pJWvUfBynHe5Q/274437--a88848b2-0efd-4f4e-92af-4a49b77517fb--kihb--2404152-streamtape.mp4?stream=1
+#EXTINF:-1, tvg-logo="https://media.pagina7.cl/2023/12/peliculas-esperadas-2024.jpg" tvg-name="Peliculas 2024"  group-title="Peliculas 2024",Extrenos
+https://raw.githubusercontent.com/kazuma-code/PSSTREAM/main/PL2024

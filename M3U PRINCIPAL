@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1, tvg-logo="https://i.ibb.co/fkQTy3J/PORTADA.png" tvg-name="Peliculas 2024" group-title=""
 
-#EXTINF:-1, tvg-logo="https://i.ibb.co/6JRV4Q9/CODIGO-8.png" tvg-name="Peliculas 2024"  group-title="PELICULAS 2024",Extrenos
+#EXTINF:-1, tvg-logo="https://i.ibb.co/fkQTy3J/PORTADA.png" tvg-name="Peliculas 2024"  group-title="PELICULAS 2024",Extrenos
 https://raw.githubusercontent.com/kazuma-code/PSSTREAM/main/PL2024

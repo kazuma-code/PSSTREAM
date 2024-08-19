@@ -1,9 +1,10 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://i.ibb.co/fkQTy3J/PORTADA.png" tvg-name="Peliculas 2024" group-title=""
 
 #EXTINF:-1, tvg-logo="https://i.ibb.co/fkQTy3J/PORTADA.png" tvg-name="Peliculas 2024"  group-title="PELICULAS 2024",Extrenos
 https://raw.githubusercontent.com/kazuma-code/PSSTREAM/main/PL2024
 
-
 #EXTINF:-1, tvg-logo="https://i.ibb.co/fkQTy3J/PORTADA.png" tvg-name="Accion"  group-title="Accion",Accion
 https://raw.githubusercontent.com/kazuma-code/PSSTREAM/main/PSACCION
+
+#EXTINF:-1, tvg-logo="https://i.ibb.co/fkQTy3J/PORTADA.png" tvg-name=""  group-title="Ciencia Ficcion",Ciencia Ficcion
+https://raw.githubusercontent.com/kazuma-code/PSSTREAM/main/PSFICCION
